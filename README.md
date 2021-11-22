@@ -17,7 +17,6 @@ Compared to the initial district summary, I found the following:
 [Insert of photo of old district summary]
 [Insert photos of NaN]
 [insert picture of new district summary]
-<br/><br/>
 
 ### School Summary
 Compared to the initial school summary, I found the following changes for Thomas High School:
