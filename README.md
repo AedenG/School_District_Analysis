@@ -53,19 +53,31 @@ Bottom Five Schools:
 ### Math and Reading Scores by Grade
 -	There are no changes to the 10th-12th grade math and reading scores
 -	9th grade math and reading scores for Thomas High School have a value of NaN
-[photo of both math and reading shots of thomas]
+
+Math Scores by Grade:<br/>
+<img width="310" alt="math_by_grade" src="https://user-images.githubusercontent.com/91852495/142792715-bb478ce0-1228-49fa-a8ca-4f7248662d69.png">
+
+Reading Scores by Grade:<br/>
+<img width="307" alt="reading_by_grade" src="https://user-images.githubusercontent.com/91852495/142792789-8d016d22-06ab-423b-b7e1-3070455538b3.png">
 
 ### Scores by School Spending
 -	Scores have such a minimal difference in the $630-644 bin, to which Thomas High School belongs, that there is a negligible change noted after rounding. 
-[photo of spending ranges both?]
+
+School Spending per Student:<br/>
+<img width="831" alt="Spending_ranges_new" src="https://user-images.githubusercontent.com/91852495/142792953-781be96c-cf90-463a-b3b9-985c0744d4e0.png">
 
 ### Scores by School Size
 -	Thomas High School has 1635 students. Scores have such a minimal difference in the Medium (1000-2000) school size bin that there is a negligible change noted after rounding. 
- [No change- insert photo- medium size]
+
+Subject Scores by School Size:<br/>
+<img width="766" alt="School_size_new" src="https://user-images.githubusercontent.com/91852495/142793036-eb7d3a36-2a08-4514-8735-dcd189781423.png">
+
 
 ### Scores by School Type
 -	Thomas High School is a charter school. Scores have such a minimal difference in the charter school type category that there is a negligible change noted after rounding. 
-[No major- charter change]
+
+Subject Scores by School Type:<br/>
+<img width="712" alt="School_type_new" src="https://user-images.githubusercontent.com/91852495/142793134-ddadde20-b977-4be6-b6a5-025be38f473d.png">
 
 ## Summary 
 Math and reading scores, and the percentage of students passing math, reading, and both subjects, have slightly reduced for the school district when removing 9th grade scores from Thomas High School’s data. In the school summary, we can see that for Thomas High School, the percentage of students passing math, reading, and both subjects has increased after removing 9th grade data. There are very minimal but negligible changes to school spending per student bin $630-644, medium school size, and charter school type categories. Replacing the ninth grade data for math and reading does not affect Thomas High Schools rank.
