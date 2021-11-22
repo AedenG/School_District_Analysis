@@ -14,9 +14,19 @@ Compared to the initial district summary, I found the following:
 -	The percent of students passing math reduced from 75% to 74.8%.
 -	The percent of students passing reading reduced from 86% to 85.7%.
 -	The overall percent of students passing both math and reading reduced from 65% to 64.9%.
-[Insert of photo of old district summary]
-[Insert photos of NaN]
-[insert picture of new district summary]
+
+9th Grade Scores Replaced with NaN:
+
+<img width="628" alt="ths_nan" src="https://user-images.githubusercontent.com/91852495/142791830-be55e02b-8fb5-481f-ac99-fa20a27278f4.png">
+
+Initial District Summary:
+
+<img width="615" alt="district_summary_old" src="https://user-images.githubusercontent.com/91852495/142791953-85cc6812-c69d-42d2-b3ae-b387cc6266c7.png">
+
+District Summary with 9th Grade Scores Replaced:
+
+<img width="941" alt="District_summary_df_new" src="https://user-images.githubusercontent.com/91852495/142791291-616494ac-ef55-420e-a06c-6f83d202cd57.png">
+
 
 ### School Summary
 Compared to the initial school summary, I found the following changes for Thomas High School:
