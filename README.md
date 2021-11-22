@@ -49,34 +49,34 @@ Top Five Schools:
 Bottom Five Schools:
 <img width="980" alt="Bottom_5" src="https://user-images.githubusercontent.com/91852495/142792524-0e091e4b-28a7-4192-afb8-07ed75052cd6.png">
 
+### School Metrics
+- Math and Reading Scores by Grade
+  -	There are no changes to the 10th-12th grade math and reading scores
+  -	9th grade math and reading scores for Thomas High School have a value of NaN
 
-### Math and Reading Scores by Grade
--	There are no changes to the 10th-12th grade math and reading scores
--	9th grade math and reading scores for Thomas High School have a value of NaN
-
-Math Scores by Grade:<br/>
+  - Math Scores by Grade:
 <img width="310" alt="math_by_grade" src="https://user-images.githubusercontent.com/91852495/142792715-bb478ce0-1228-49fa-a8ca-4f7248662d69.png">
-
-Reading Scores by Grade:<br/>
+  
+  - Reading Scores by Grade:
 <img width="307" alt="reading_by_grade" src="https://user-images.githubusercontent.com/91852495/142792789-8d016d22-06ab-423b-b7e1-3070455538b3.png">
 
-### Scores by School Spending
--	Scores have such a minimal difference in the $630-644 bin, to which Thomas High School belongs, that there is a negligible change noted after rounding. 
+- Scores by School Spending
+  - Scores have such a minimal difference in the $630-644 bin, to which Thomas High School belongs, that there is a negligible change noted after rounding. 
 
-School Spending per Student:<br/>
+  - School Spending per Student:<br/>
 <img width="831" alt="Spending_ranges_new" src="https://user-images.githubusercontent.com/91852495/142792953-781be96c-cf90-463a-b3b9-985c0744d4e0.png">
 
-### Scores by School Size
--	Thomas High School has 1635 students. Scores have such a minimal difference in the Medium (1000-2000) school size bin that there is a negligible change noted after rounding. 
+- Scores by School Size
+  -	Thomas High School has 1635 students. Scores have such a minimal difference in the Medium (1000-2000) school size bin that there is a negligible change noted after rounding. 
 
-Subject Scores by School Size:<br/>
+  - Subject Scores by School Size:<br/>
 <img width="766" alt="School_size_new" src="https://user-images.githubusercontent.com/91852495/142793036-eb7d3a36-2a08-4514-8735-dcd189781423.png">
 
 
-### Scores by School Type
--	Thomas High School is a charter school. Scores have such a minimal difference in the charter school type category that there is a negligible change noted after rounding. 
+- Scores by School Type
+  -	Thomas High School is a charter school. Scores have such a minimal difference in the charter school type category that there is a negligible change noted after rounding. 
 
-Subject Scores by School Type:<br/>
+  - Subject Scores by School Type:<br/>
 <img width="712" alt="School_type_new" src="https://user-images.githubusercontent.com/91852495/142793134-ddadde20-b977-4be6-b6a5-025be38f473d.png">
 
 ## Summary 
