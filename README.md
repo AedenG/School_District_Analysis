@@ -33,13 +33,22 @@ Compared to the initial school summary, I found the following changes for Thomas
 -	The percent of students passing math increased from 66.911315% to 93.185690%.
 -	The percent of students passing reading increased from 69.663609% to 97.018739%.
 -	The percent of students passing math and reading increased from 65.076453% to 90.630324%.
--	Insert of photo of old school summary]
-•	[insert picture of new district summary]
+
+Thomas High School in School Summary Before Replaced Values:
+<img width="998" alt="ths_before_replace" src="https://user-images.githubusercontent.com/91852495/142792141-0f42f019-811a-45e2-9eb9-fff719ef2eb7.png">
+
+Thomas High School in School Summary After Replaced Values:
+<img width="973" alt="ths_after_replace" src="https://user-images.githubusercontent.com/91852495/142792178-bd5832fb-1f54-46ba-bf0b-fcd78fc73d9c.png">
 
 ### Thomas High School’s Performance 
 - Replacing the data for ninth graders does not affect the standing of Thomas High School compared to other schools in terms of rank. Despite the reduction in overall passing percentage in the second school district analysis, Thomas High School is still ranked as the # 2 performing school in the district. 
-[photo of top 5]
-[photo of bottom 5]
+
+Top Five Schools:
+<img width="991" alt="Top_5" src="https://user-images.githubusercontent.com/91852495/142792498-ab9825eb-463a-4a9a-ba47-6de6914afbe8.png">
+
+Bottom Five Schools:
+<img width="980" alt="Bottom_5" src="https://user-images.githubusercontent.com/91852495/142792524-0e091e4b-28a7-4192-afb8-07ed75052cd6.png">
+
 
 ### Math and Reading Scores by Grade
 -	There are no changes to the 10th-12th grade math and reading scores
