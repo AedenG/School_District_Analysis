@@ -23,7 +23,7 @@ Initial District Summary:
 
 <img width="615" alt="district_summary_old" src="https://user-images.githubusercontent.com/91852495/142791953-85cc6812-c69d-42d2-b3ae-b387cc6266c7.png">
 
-District Summary with 9th Grade Scores Replaced:
+District Summary with Thomas High School 9th Grade Scores Replaced:
 
 <img width="941" alt="District_summary_df_new" src="https://user-images.githubusercontent.com/91852495/142791291-616494ac-ef55-420e-a06c-6f83d202cd57.png">
 
@@ -80,4 +80,4 @@ Subject Scores by School Type:<br/>
 <img width="712" alt="School_type_new" src="https://user-images.githubusercontent.com/91852495/142793134-ddadde20-b977-4be6-b6a5-025be38f473d.png">
 
 ## Summary 
-Math and reading scores, and the percentage of students passing math, reading, and both subjects, have slightly reduced for the school district when removing 9th grade scores from Thomas High School’s data. In the school summary, we can see that for Thomas High School, the percentage of students passing math, reading, and both subjects has increased after removing 9th grade data. There are very minimal but negligible changes to school spending per student bin $630-644, medium school size, and charter school type categories. Replacing the ninth grade data for math and reading does not affect Thomas High Schools rank.
+Math and reading scores, and the percentage of students passing math, reading, and both subjects, have slightly reduced for the school district when removing 9th grade scores from Thomas High School’s data. In the school summary, we can see that for Thomas High School, the percentage of students passing math, reading, and both subjects has increased after removing 9th grade data. There are very minimal but negligible changes to school spending per student bin $630-644, medium school size, and charter school type categories. Replacing the ninth grade data for math and reading does not affect Thomas High School's rank.
